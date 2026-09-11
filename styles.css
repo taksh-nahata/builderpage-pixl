@@ -12,6 +12,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #000;
+    text-align: center;
 }
 
 mark {
@@ -71,6 +72,23 @@ mark {
 .qa a:hover {
     transform: scale(1.05);
     background-color: #fff;
+}
+
+a {
+    display: inline-block;
+    margin-top: 12px;
+    padding: 10px 20px;
+    background-color: red;
+    color: black;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+    transition: transform 0.2s ease, background-color 0.2s ease;
+}
+
+a:hover {
+    transform: scale(1.05);
+    background-color: white;
 }
 
 h1, h2, h3 {
