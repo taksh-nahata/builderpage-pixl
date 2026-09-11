@@ -4,6 +4,8 @@ Hey everyone. This is just my simple builder page I made for this task:
 
 It includes all of this.
 
+You can view the deployed version at: [text](https://builderpage-taksh-nahata.vercel.app/)
+
 ## What tech did I use?
 I just kept it simple and used HTML and CSS.
 
