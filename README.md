@@ -12,7 +12,7 @@ It's actually really simple. You just (1) clone the repo, (2) open up the index.
 
 *I guess that's the benefit of only coding in HTML and CSS. Not really difficult to run it.*
 
-## Show some screenshots of it working
+## Show some screenshots/videos/gifs of it working
 Bet! Here you go:
 ![Home Page](assets/homepage.gif)
 ![Projects](assets/projects.gif)
